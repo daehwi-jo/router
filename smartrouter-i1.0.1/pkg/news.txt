@@ -1,0 +1,5 @@
+1.0.0.1 - hydra 테스트
+1.0.0.2 - http header parsing 수정
+1.0.0.3 - g, m, rcs http header추가
+1.0.0.4 - nginx 내부통신 https 일때 http로
+1.0.1 - 운영 pkg
